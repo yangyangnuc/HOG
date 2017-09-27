@@ -1,0 +1,1 @@
+Extract HOG features from image
